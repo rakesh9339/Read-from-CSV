@@ -37,3 +37,4 @@ print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 ![eig](3.png)
 ## RESULT:
+To write a python program to read contents from a CSV file.
